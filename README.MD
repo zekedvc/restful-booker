@@ -30,15 +30,10 @@ The Restful Booker API collection serves as a comprehensive set of requests to v
 ## Newman reporter
 1. Install Newman Reporter HTMLExtra:
 Open your terminal and use the following npm command to install the Newman HTMLExtra reporter globally:
-bash
-Copy code
-npm install -g newman-reporter-htmlextra
+`npm install -g newman-reporter-htmlextra`
 2. Execute Newman with HTMLExtra Reporter:
 Navigate to the directory containing your Restful Booker API Postman collection JSON file in the terminal. Then, use the following command to run the collection with the HTMLExtra reporter:
-
-bash
-Copy code
-newman run your_collection_file.json -r htmlextra
+`newman run your_collection_file.json -r htmlextra`
 Replace your_collection_file.json with the actual filename of your Restful Booker API Postman collection.
 
 This will execute your collection using Newman and generate a detailed HTML report using the HTMLExtra reporter. The report will be available in the newman directory within your current working directory.
