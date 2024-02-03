@@ -7,6 +7,7 @@ Welcome to the Restful Booker API QA Tester Documentation. This guide is intende
 The Restful Booker API collection serves as a comprehensive set of requests to validate different aspects of the API. QA testers can utilize these endpoints to perform functional testing, ensuring that the API meets specified requirements, and to assess its overall performance and security.
 
 ## Key Endpoints
+![Restful](https://github.com/zekedvc/restful-booker/assets/67669609/b46c44e6-a4b2-4d16-8d2d-12b9625dddc1)
 1. **Auth - Create Token:** Verify user authentication by creating a token.
 2. **Booking - Create Booking:** Test the creation of a booking with specified details.
 3. **Booking - Get Booking:** Retrieve details of a specific booking.
