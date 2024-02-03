@@ -8,14 +8,15 @@ The Restful Booker API collection serves as a comprehensive set of requests to v
 
 ## Key Endpoints
 ![Restful](https://github.com/zekedvc/restful-booker/assets/67669609/b46c44e6-a4b2-4d16-8d2d-12b9625dddc1)
-1. **Auth - Create Token:** Verify user authentication by creating a token.
-2. **Booking - Create Booking:** Test the creation of a booking with specified details.
-3. **Booking - Get Booking:** Retrieve details of a specific booking.
-4. **Booking - Get Booking IDs:** Obtain a list of booking IDs.
-5. **Booking - Update Booking:** Modify booking details using the PUT method.
-6. **Booking - Partial Update Booking:** Partially update booking details with the PATCH method.
-7. **Booking - Delete Booking:** Delete a specific booking.
-8. **Ping - Health Check:** Ensure the API's health status with a ping request.
+1. **Booking - Get Booking:** Retrieve details of a specific booking.
+2. **Booking - Get Booking IDs:** Obtain a list of booking IDs.
+3. **Ping - Health Check:** Ensure the API's health status with a ping request.
+4. **Auth - Create Token:** Verify user authentication by creating a token.
+5. **Booking - Create Booking:** Test the creation of a booking with specified details.
+6. **Booking - Update Booking:** Modify booking details using the PUT method.
+7. **Booking - Partial Update Booking:** Partially update booking details with the PATCH method.
+8. **Booking - Delete Booking:** Delete a specific booking.
+
 
 ## How to Use
 1. Start by reviewing the introduction and purpose to understand the testing objectives.
