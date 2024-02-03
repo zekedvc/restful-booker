@@ -1,5 +1,7 @@
 # Restful Booker API - QA Tester Documentation
 
+![postman-github-logo](https://github.com/zekedvc/restful-booker/assets/67669609/a6cc1a9c-cb3b-4d5d-ad14-ee2c17d230e8)
+
 ## Introduction
 Welcome to the Restful Booker API QA Tester Documentation. This guide is intended for Quality Assurance (QA) testers responsible for testing the functionalities of the Restful Booker API. The collection is designed to cover various scenarios, allowing thorough testing of the API's endpoints to ensure its reliability.
 
