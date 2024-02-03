@@ -35,6 +35,9 @@ Open your terminal and use the following npm command to install the Newman HTMLE
 Navigate to the directory containing your Restful Booker API Postman collection JSON file in the terminal. Then, use the following command to run the collection with the HTMLExtra reporter:
 `newman run your_collection_file.json -r htmlextra`. Replace your_collection_file.json with the actual filename of your Restful Booker API Postman collection. This will execute your collection using Newman and generate a detailed HTML report using the HTMLExtra reporter. The report will be available in the newman directory within your current working directory.
 
+![image](https://github.com/zekedvc/restful-booker/assets/67669609/4f559794-617c-456a-babc-d522c575bef4)
+
+
 ## Conclusion
 This documentation aims to facilitate efficient testing of the Restful Booker API. QA testers are encouraged to contribute to the improvement of test scenarios, report any issues, and collaborate with developers to enhance the overall quality of the API.
 
